@@ -1,5 +1,8 @@
 # ProjetoBuzzfeed
 
+Projeto criado para ser um quiz estilo Buzzfeed. Trata-se de um quiz sobre dois grandes nomes nos livros de Agatha Christie: Hercule Poirot e Miss Marple. Qual deles você seria?
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
 
 ## Development server
