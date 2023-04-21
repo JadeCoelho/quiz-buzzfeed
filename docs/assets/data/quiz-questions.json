@@ -1,0 +1,109 @@
+{
+  "title": "Você é mais Miss Marple ou Hercule Poirot?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Como você prefere ser lembrado?",
+      "options": [
+        { "id": 1, "name": "Pela elegância e pelo bom humor", "alias": "A" },
+        { "id": 2, "name": "Pela gentileza e pela simplicidade", "alias": "B" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Você se considera mais...",
+      "options": [
+        { "id": 1, "name": "Extravagante", "alias": "A" },
+        { "id": 2, "name": "Discreto", "alias": "B" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "No que você costuma se basear para tirar conclusões?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Experiências similares que ocorreram no passado",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Elementos que se relacionam no presente",
+          "alias": "A"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual dessas características poderia ser sua?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Minha inclinação a fofocar sobre as coisas",
+          "alias": "B"
+        },
+        { "id": 2, "name": "Minha obsessão por organização", "alias": "A" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual frase mais combina com você?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Tenho boa reputação pelo meu trabalho bem feito",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Minha capacidade costuma ser subestimada",
+          "alias": "B"
+        },
+        {
+          "id": 1,
+          "name": "Me chamam de humilde, mas eu só não me acho isso tudo que alguns dizem",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "O que muitos chamam de presunção eu chamo de autorreconhecimento",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Sua visão acerca do que está ao seu redor é mais...",
+      "options": [
+        { "id": 1, "name": "Realista", "alias": "A" },
+        { "id": 2, "name": "Pessimista", "alias": "B" }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "O quanto você gosta de viajar?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Muito. É uma ótima oportunidade para novos aprendizados.",
+          "alias": "A"
+        },
+        { "id": 1, "name": "Pouco. Prefiro minha casa.", "alias": "B" },
+        {
+          "id": 1,
+          "name": "Tanto faz. Posso conhecer outros lugares sem nem levantar da cadeira.",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Gosto de viajar e visitar vários lugares, mas gosto de voltar para meu lugar de origem",
+          "alias": "B"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você provavelmente seria Hercule Poirot!",
+    "B": "Você provavelmente seria Miss Marple!"
+  }
+}
